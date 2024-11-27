@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Henry 
+- prénom : Eloïs
+- URL Netlify : https://quiet-frangollo-1c730b.netlify.app/
 
 # Travail
 
